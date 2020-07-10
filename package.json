@@ -1,5 +1,5 @@
 {
-	"name": "tradin.api.server",
+	"name": "nexjs-ws.template.server.ts.node",
 	"version": "0.0.1",
 	"license": "MIT",
 	"main": "dist/main.js",
